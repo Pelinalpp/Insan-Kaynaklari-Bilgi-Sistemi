@@ -1,0 +1,24 @@
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe.config
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.pdb
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.frmInsanKaynaklariBilgiSistemi.resources
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.Properties.Resources.resources
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemi\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.pdb
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe.config
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.pdb
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.pdb
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.frmInsanKaynaklariBilgiSistemi.resources
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.Properties.Resources.resources
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.csproj.GenerateResource.Cache
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\Veri Gönder\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe.config
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\Veri Gönder\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\Pelin\Desktop\Veri Yapıları Projesi\Veri Gönder\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.pdb
+C:\Users\AlpPelin\Desktop\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\bin\Debug\InsanKaynaklariBilgiSistemi.exe.config
+C:\Users\AlpPelin\Desktop\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.exe
+C:\Users\AlpPelin\Desktop\InsanKaynaklariBilgiSistemiSon\InsanKaynaklariBilgiSistemi\obj\Debug\InsanKaynaklariBilgiSistemi.pdb

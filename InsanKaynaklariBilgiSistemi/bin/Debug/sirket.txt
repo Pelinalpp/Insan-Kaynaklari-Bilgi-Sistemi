@@ -1,0 +1,8 @@
+Sirket-1
+Sirket-1 Adres
+Sirket-1 Telefon
+Sirket-1 Eposta
+Sirket-1 Faks
+0
+Ilan-1 Is Tanimi
+Ilan-1 Elaman Ozellik
